@@ -1,4 +1,4 @@
-* **If the image is inside an images folder:**
+markdown
   
 
 ![Flier 2](1769079444061.jpg)
