@@ -22,3 +22,6 @@ Check out my recent flier design projects here:
 ![Flier 2](20250824_205814.jpg)
 ![Flier 2](20250828_112544.jpg)
 ![Flier 2](20250918_155802.jpg)
+![Flier 2](20250828_112544.jpg)
+![Flier 2](20250925_160652.jpg)
+![Flier 2](20251022_162350-01.jpeg)
